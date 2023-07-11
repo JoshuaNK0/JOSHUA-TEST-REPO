@@ -4,3 +4,9 @@ div p {
   border: 2px solid red;
   text-decoration: underline;
 }
+.audrey {
+  padding: 100px;
+  text-decoration: wavy;
+  color-scheme: black;
+  margin: 60px;
+}
